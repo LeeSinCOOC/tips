@@ -1,0 +1,2 @@
+(base) chen@chen-PC:~$ sudo ufw disable
+Firewall stopped and disabled on system startup

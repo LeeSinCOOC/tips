@@ -1,0 +1,10 @@
+json.dumps(data)
+json.loads(data)
+json.dump(data)
+json.load(data)
+
+
+如果是字符串就加个s，文件就不加
+返回的编码默认是ensure_ascii = True 改成False 可以在网页显示中文
+
+json.dumps(obj, skipkeys=False, ensure_ascii=True, check_circular=True, allow_nan=True, cls=None, indent=None, separators=None, encoding="utf-8", default=None, sort_keys=False, **kw)

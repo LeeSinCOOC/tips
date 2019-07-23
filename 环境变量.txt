@@ -1,0 +1,7 @@
+/etc/profile
+.bashrc
+
+export PATH=$PATH:/opt/au1200_rm/build_tools/bin 
+
+
+source 文件
